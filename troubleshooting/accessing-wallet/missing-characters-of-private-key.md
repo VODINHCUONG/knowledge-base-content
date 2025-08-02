@@ -1,4 +1,4 @@
----
+---missing-characters-of-private-key.
 title: Missing Characters from Private Key
 description: Private Keys & Passwords
 tags:
